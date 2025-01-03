@@ -1,4 +1,5 @@
 Personal Calculator Project
+
 This project is a simple calculator I created as part of my learning journey after starting the Meta Front-End Development course on Coursera.
 
 Technologies Used
